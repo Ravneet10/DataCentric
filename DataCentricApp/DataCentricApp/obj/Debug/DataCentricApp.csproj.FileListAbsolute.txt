@@ -1,0 +1,10 @@
+C:\Users\dhandaj\source\repos\DataCentricApp\DataCentricApp\bin\Debug\DataCentricApp.exe.config
+C:\Users\dhandaj\source\repos\DataCentricApp\DataCentricApp\bin\Debug\DataCentricApp.exe
+C:\Users\dhandaj\source\repos\DataCentricApp\DataCentricApp\bin\Debug\DataCentricApp.pdb
+C:\Users\dhandaj\source\repos\DataCentricApp\DataCentricApp\bin\Debug\WebDriver.dll
+C:\Users\dhandaj\source\repos\DataCentricApp\DataCentricApp\bin\Debug\WebDriver.xml
+C:\Users\dhandaj\source\repos\DataCentricApp\DataCentricApp\obj\Debug\DataCentricApp.csproj.CoreCompileInputs.cache
+C:\Users\dhandaj\source\repos\DataCentricApp\DataCentricApp\obj\Debug\DataCentricApp.csproj.CopyComplete
+C:\Users\dhandaj\source\repos\DataCentricApp\DataCentricApp\obj\Debug\DataCentricApp.exe
+C:\Users\dhandaj\source\repos\DataCentricApp\DataCentricApp\obj\Debug\DataCentricApp.pdb
+C:\Users\dhandaj\source\repos\DataCentricApp\DataCentricApp\obj\Debug\DataCentricApp.csprojAssemblyReference.cache
